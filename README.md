@@ -24,7 +24,7 @@ peer-reviewed and presented in academic conferences.
 1. [Proof of work](#proof-of-work)
 1. [DAG-based consensus mechanisms](#dag-based-consensus)
 1. [Survey, Sociological & Anthropological](#survey-sociological--anthropological)
-2. [Rollups Optimistic] (#Rollups-Optimistic)
+2. [Rollups Optimistic] (#rollups-optimistic)
 3. [Applications](#applications)
 4. [License](#license)
 
