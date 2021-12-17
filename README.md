@@ -24,8 +24,9 @@ peer-reviewed and presented in academic conferences.
 1. [Proof of work](#proof-of-work)
 1. [DAG-based consensus mechanisms](#dag-based-consensus)
 1. [Survey, Sociological & Anthropological](#survey-sociological--anthropological)
-1. [Applications](#applications)
-1. [License](#license)
+2. [Rollups Optimistic] (#Rollups-Optimistic)
+3. [Applications](#applications)
+4. [License](#license)
 
 ---
 
@@ -256,6 +257,14 @@ Sompolinsky Y, Lewenberg Y, Zohar A. '16.
 - 🎓 [Cryptographic Currencies from a Tech-Policy Perspective: Policy Issues and Technical Direction](http://fc15.ifca.ai/preproceedings/bitcoin/paper_16.pdf). McReynolds E, Lerner A, Scott W, Roesner F, Kohno T. FC '15.
 - 🎓 [The Other Side of the Coin: User Experiences with Bitcoin Security and Privacy](http://fc16.ifca.ai/preproceedings/33_Krombholz.pdf). Krombholz K, Judmayer A, Gusenbauer M, Weippl E. FC '16.
 - 🎓 [An analysis of Bitcoin OP_RETURN metadata](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final32.pdf). Bartoletti M, Pompianu L. FC '17.
+
+## Rollups Optimistic
+- https://thebitcoinpodcast.com/hashing-it-out-67/
+- https://medium.com/@adlerjohn/the-why-s-of-optimistic-rollup-7c6a22cbb61a
+- https://ethresear.ch/t/on-chain-scaling-to-potentially-500-tx-sec-through-mass-tx-validation/3477
+- https://medium.com/plasma-group/ethereum-smart-contracts-in-l2-optimistic-rollup-2c1cef2ec537
+- https://medium.com/plasma-group/introducing-the-ovm-db253287af50
+- https://medium.com/@fuellabs/announcing-the-fuel-v0-open-beta-565a2d340fc3
 
 ## Applications
 
