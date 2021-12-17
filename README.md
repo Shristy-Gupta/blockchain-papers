@@ -266,6 +266,9 @@ Sompolinsky Y, Lewenberg Y, Zohar A. '16.
 - https://medium.com/plasma-group/introducing-the-ovm-db253287af50
 - https://medium.com/@fuellabs/announcing-the-fuel-v0-open-beta-565a2d340fc3
 - https://github.com/lukso-network/network-optimism-integration/wiki/Optimistic-Rollups:-Chain,-Execute-&-State,-Verification
+- https://link.springer.com/chapter/10.1007/978-3-642-14478-3_23
+- https://medium.com/plasma-group/ethereum-smart-contracts-in-l2-optimistic-rollup-2c1cef2ec537
+- https://wwz.unibas.ch/fileadmin/user_upload/wwz/00_Professuren/Schaer_DLTFintech/Lehre/Tobias_Schaffner_Masterthesis.pdf
 
 ## Applications
 
