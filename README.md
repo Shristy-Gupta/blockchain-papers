@@ -265,6 +265,7 @@ Sompolinsky Y, Lewenberg Y, Zohar A. '16.
 - https://medium.com/plasma-group/ethereum-smart-contracts-in-l2-optimistic-rollup-2c1cef2ec537
 - https://medium.com/plasma-group/introducing-the-ovm-db253287af50
 - https://medium.com/@fuellabs/announcing-the-fuel-v0-open-beta-565a2d340fc3
+- https://github.com/lukso-network/network-optimism-integration/wiki/Optimistic-Rollups:-Chain,-Execute-&-State,-Verification
 
 ## Applications
 
